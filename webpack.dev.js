@@ -33,7 +33,7 @@ const scssLoader = {
   })
 };
 
-const devLanguage = require('./languages/en.json');
+const devLanguage = require('./languages/fr.json');
 
 module.exports = {
   entry: ['./src/leaflet-measure.js'],
